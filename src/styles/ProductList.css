@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    padding: 50px;
+}
+.product-list{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 30px;
+    width: 50vw;
+    border: 1px solid black;
+}
